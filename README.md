@@ -12,4 +12,4 @@ You can see the CodeIgniter Framework page [here](http://codeigniter.com/)
 how to
 =========
 To use the Doctrine ORM, firstly change the database configuration at the application/config/database.php. For Windows users, go to the application directory
-and execute this: **php.exe doctrine.php**. For Unix base users do the same and execute **php doctrine**. This command while automatically generate the table in your database.
+and execute this: **php.exe doctrine.php**. For Unix base users do the same and execute **php doctrine**. This command will automatically generate the table in your database.
